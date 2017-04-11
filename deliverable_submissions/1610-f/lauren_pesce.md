@@ -8,3 +8,5 @@
 
 
 [cold outreach](https://gist.github.com/pescel/109e84f0464a3b06339a8474746874fd)
+
+[career outline](https://gist.github.com/pescel/4faeadb744b4a3cb3a259981bc1d9eef)
